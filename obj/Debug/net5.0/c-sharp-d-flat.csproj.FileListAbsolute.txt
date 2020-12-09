@@ -1,0 +1,16 @@
+C:\Users\nati0\Desktop\c-sharp-d-flat\bin\Debug\net5.0\c-sharp-d-flat.exe
+C:\Users\nati0\Desktop\c-sharp-d-flat\bin\Debug\net5.0\c-sharp-d-flat.deps.json
+C:\Users\nati0\Desktop\c-sharp-d-flat\bin\Debug\net5.0\c-sharp-d-flat.runtimeconfig.json
+C:\Users\nati0\Desktop\c-sharp-d-flat\bin\Debug\net5.0\c-sharp-d-flat.runtimeconfig.dev.json
+C:\Users\nati0\Desktop\c-sharp-d-flat\bin\Debug\net5.0\c-sharp-d-flat.dll
+C:\Users\nati0\Desktop\c-sharp-d-flat\bin\Debug\net5.0\ref\c-sharp-d-flat.dll
+C:\Users\nati0\Desktop\c-sharp-d-flat\bin\Debug\net5.0\c-sharp-d-flat.pdb
+C:\Users\nati0\Desktop\c-sharp-d-flat\obj\Debug\net5.0\c-sharp-d-flat.csprojAssemblyReference.cache
+C:\Users\nati0\Desktop\c-sharp-d-flat\obj\Debug\net5.0\c-sharp-d-flat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nati0\Desktop\c-sharp-d-flat\obj\Debug\net5.0\c-sharp-d-flat.AssemblyInfoInputs.cache
+C:\Users\nati0\Desktop\c-sharp-d-flat\obj\Debug\net5.0\c-sharp-d-flat.AssemblyInfo.cs
+C:\Users\nati0\Desktop\c-sharp-d-flat\obj\Debug\net5.0\c-sharp-d-flat.csproj.CoreCompileInputs.cache
+C:\Users\nati0\Desktop\c-sharp-d-flat\obj\Debug\net5.0\c-sharp-d-flat.dll
+C:\Users\nati0\Desktop\c-sharp-d-flat\obj\Debug\net5.0\ref\c-sharp-d-flat.dll
+C:\Users\nati0\Desktop\c-sharp-d-flat\obj\Debug\net5.0\c-sharp-d-flat.pdb
+C:\Users\nati0\Desktop\c-sharp-d-flat\obj\Debug\net5.0\c-sharp-d-flat.genruntimeconfig.cache
