@@ -33,61 +33,63 @@ namespace c_sharp_d_flat
                     {
                         case 1:
                             inputCPU = "Rock";
-                            Console.WriteLine("Computer shoots Rock");
+                            Console.WriteLine("\nComputer shoots Rock");
                             if (inputPlayer == "Rock")
                             {
-                                Console.WriteLine("Draw");
+                                Console.WriteLine("\nDraw");
                             }
                             else if (inputPlayer == "Paper")
                             {
-                                Console.WriteLine("Player Wins");
+                                Console.WriteLine("\nPlayer Wins");
                                 playerScore++;
                             }
                             else if (inputPlayer == "Scissors")
                             {
-                                Console.WriteLine("Computer Wins");
+                                Console.WriteLine("\nComputer Wins");
                                 CPUScore++;
                             }
                             break;
                         case 2:
                             inputCPU = "Paper";
-                            Console.WriteLine("Computer shoots Paper");
+                            Console.WriteLine("\nComputer shoots Paper");
                             if (inputPlayer == "Rock")
                             {
-                                Console.WriteLine("Computer Wins");
+                                Console.WriteLine("\nComputer Wins");
                                 CPUScore++;
                             }
                             else if (inputPlayer == "Paper")
                             {
-                                Console.WriteLine("Draw");
+                                Console.WriteLine("\nDraw");
                             }
-                            else if (inputPlayer == "Scissors")
+                            else if (inputPlayer == "\nScissors")
                             {
-                                Console.WriteLine("Player Wins");
+                                Console.WriteLine("\nPlayer Wins");
                                 playerScore++;
                             }
                             break;
                         case 3:
                             inputCPU = "Scissors";
-                            Console.WriteLine("Computer shoots Scissors");
+                            Console.WriteLine("\nComputer shoots Scissors");
                             if (inputPlayer == "Rock")
                             {
-                                Console.WriteLine("Player Wins");
+                                Console.WriteLine("\nPlayer Wins");
                                 playerScore++;
                             }
                             else if (inputPlayer == "Paper")
                             {
-                                Console.WriteLine("Computer Wins");
+                                Console.WriteLine("\nComputer Wins");
                                 CPUScore++;
                             }
                             else if (inputPlayer == "Scissors")
                             {
-                                Console.WriteLine("Draw");
+                                Console.WriteLine("\nDraw");
                             }
                             break;
                         default:
+                            Console.WriteLine("\nInvalid entry");
                             break;
                     }
+                    Console.WriteLine("\n\nScores: \tPLAYER:\t{0}\tCPU\t{1}", playerScore, CPUScore);
 
                 }
                 if (playerScore == 3)
@@ -107,6 +109,7 @@ namespace c_sharp_d_flat
                 if (loop == "yes")
                 {
                     playAgain = true;
+                    Console.Clear();
                 }
                 else if (loop == "no")
                 {
